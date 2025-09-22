@@ -1,0 +1,7 @@
+casagaucha-vercel/
+├── package.json
+├── pages/
+│   ├── index.js
+│   ├── cartas-contempladas.js
+│   └── cartas-com-desagio.js
+└── public/   <-- criar esta pasta, pode estar vazia
